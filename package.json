@@ -1,0 +1,35 @@
+{
+  "name": "text-her",
+  "version": "1.0.0",
+  "description": "Text LOML intermittently",
+  "main": "index.js",
+  "scripts": {
+    "start": "env-cmd ./config/dev.env node index.js",
+    "dev": "env-cmd ./config/dev.env nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benneee/text-her.git"
+  },
+  "keywords": [
+    "text",
+    "message",
+    "sms",
+    "node.js",
+    "twilio"
+  ],
+  "author": "Benedict Nkeonye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Benneee/text-her/issues"
+  },
+  "homepage": "https://github.com/Benneee/text-her#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "twilio": "^3.43.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^8.0.2",
+    "nodemon": "^2.0.3"
+  }
+}
