@@ -1,4 +1,4 @@
-## text-her
+# text-her
 
 ### I was looking for a way to tell her "sorry, I cannot pick your call right now, I'm in this really long meeting with a colleague and I can't really do much with my phone right now", taught about an FCC article I read earlier this year and voila!. 
 ### Run this script in the background and she keeps getting lovely text messages, while I'm working.
