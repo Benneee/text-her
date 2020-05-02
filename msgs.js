@@ -1,8 +1,4 @@
 module.exports = [
-  '♥ I wish everyday could be like today, beautiful and sweet, just like you girl! 🥰',
-  '♥ I tried to stop thinking about you, but it is just not earthly possible. I love you and every inch of your perfect body. 🥰',
-  '♥ You are the reason I wake up with a smile on my face every morning. You are never off my mind; You are in my dreams, and even then, you are still perfect in every way. 🥰',
-  '♥ I could say to you a thousand words on how much I really love you, and how absolutely wonderful you are, but still then it would not be enough. 🥰',
   '♥ It was attraction when we met, but now love is going to keep us together forever! 🥰',
   '♥ My life has fell into place since the day you became mine, I love you so much! 🥰',
   '♥ You taught me true meaning of life from you sweetheart. Thanks for being there for me always! 🥰',
@@ -26,5 +22,9 @@ module.exports = [
   '🥰 You are breathtaking today, I can’t wait to see the happiness radiate off of you when we see each other today. 🥰',
   '🥰 You and I belong together; I want you to always read my texts and smile just because they are from me. 🥰',
   '🥰 The signals that you send must be strong because whenever I walk by you, I feel a strong connection that draws me even closer. 🥰',
+  '♥ I wish everyday could be like today, beautiful and sweet, just like you girl! 🥰',
+  '♥ I tried to stop thinking about you, but it is just not earthly possible. I love you and every inch of your perfect body. 🥰',
+  '♥ You are the reason I wake up with a smile on my face every morning. You are never off my mind; You are in my dreams, and even then, you are still perfect in every way. 🥰',
+  '♥ I could say to you a thousand words on how much I really love you, and how absolutely wonderful you are, but still then it would not be enough. 🥰',
   '🥰 When you smile, you light up my entire world. I hope the neighbors can sleep tonight.🥰',
 ];
